@@ -1,0 +1,17 @@
+D:\work\asp.net C#\To_Do_List-main\bin\Debug\ToDoList.exe.config
+D:\work\asp.net C#\To_Do_List-main\bin\Debug\ToDoList.exe
+D:\work\asp.net C#\To_Do_List-main\bin\Debug\ToDoList.pdb
+D:\work\asp.net C#\To_Do_List-main\obj\x86\Debug\ToDoListUI.csprojAssemblyReference.cache
+D:\work\asp.net C#\To_Do_List-main\obj\x86\Debug\EditPopup.baml
+D:\work\asp.net C#\To_Do_List-main\obj\x86\Debug\MainWindow.g.cs
+D:\work\asp.net C#\To_Do_List-main\obj\x86\Debug\EditPopup.g.cs
+D:\work\asp.net C#\To_Do_List-main\obj\x86\Debug\App.g.cs
+D:\work\asp.net C#\To_Do_List-main\obj\x86\Debug\ToDoList_MarkupCompile.cache
+D:\work\asp.net C#\To_Do_List-main\obj\x86\Debug\ToDoList_MarkupCompile.lref
+D:\work\asp.net C#\To_Do_List-main\obj\x86\Debug\MainWindow.baml
+D:\work\asp.net C#\To_Do_List-main\obj\x86\Debug\ToDoList.g.resources
+D:\work\asp.net C#\To_Do_List-main\obj\x86\Debug\ToDoListApp.Properties.Resources.resources
+D:\work\asp.net C#\To_Do_List-main\obj\x86\Debug\ToDoListUI.csproj.GenerateResource.cache
+D:\work\asp.net C#\To_Do_List-main\obj\x86\Debug\ToDoListUI.csproj.CoreCompileInputs.cache
+D:\work\asp.net C#\To_Do_List-main\obj\x86\Debug\ToDoList.exe
+D:\work\asp.net C#\To_Do_List-main\obj\x86\Debug\ToDoList.pdb
